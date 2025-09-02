@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdrianMastronardi
-- 👀 I’m interested and looking to collaborate in stats and mathematics open source software
+- 👀 I’m interested and looking to collaborate bioinformatics open source software
 - 🌱 I’m currently learning Pure Mathematics
 - 📫 How to reach me adrian at mastronardi dot xyz
 
